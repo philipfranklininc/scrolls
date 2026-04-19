@@ -41,7 +41,7 @@ If you are part of the Philip Franklin Inc. team, you may use these images in ac
 
 To request permission to use any image from this repository, kindly drop an email at our official Gmail handle:
 
-*connect.philipfranklin@gmail.com**
+**connect.philipfranklin@gmail.com**
 
 ---
 
